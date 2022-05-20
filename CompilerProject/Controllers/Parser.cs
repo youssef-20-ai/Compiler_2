@@ -427,7 +427,7 @@ namespace CompilerProject.Controllers
                 }
                 else
                 {
-                    Console.WriteLine("fuck zeko");
+                    
                     error();
                 }
             }
@@ -437,7 +437,7 @@ namespace CompilerProject.Controllers
             }
             else
             {
-                Console.WriteLine("kjfkfkkfggggggggggggggg");
+                
                 error();
             }
         }
